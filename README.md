@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🖥 VidyarthiCompanion — Frontend
 
@@ -248,4 +248,3 @@ function Dashboard() {
 *Built by Team QuantYap for HackOn with Amazon 2026*
 
 </div>
-]]>
