@@ -109,7 +109,7 @@ VidyarthiCompanion-frontend/
 
 - **Node.js** ≥ 18
 - **npm** (comes with Node.js)
-- Backend server running (see [backend README](../VidyarthiCompanion-backend/README.md))
+- Backend server running (see backend repository)
 
 ### Installation
 
@@ -243,7 +243,7 @@ function Dashboard() {
 
 <div align="center">
 
-**Part of the [VidyarthiCompanion](../README.md) Campus OS**
+**Part of the VidyarthiCompanion Campus OS**
 
 *Built by Team QuantYap for HackOn with Amazon 2026*
 
